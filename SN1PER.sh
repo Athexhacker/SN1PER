@@ -242,7 +242,7 @@ echo  $b "[i] Investigating on phone numbers.                    |${endcla}";
 echo  "========================================================|" | lolcat
 echo  $b "❌ 00. EXIT                                            |${enda}";
 echo  $b "💣 01. INSTALL ALL                                     |${enda}";
-echo  $b "📁 The Installed tools are in /Revolt                  |${enda}";
+echo  $b "📁 The Installed tools are in /SN1PER                  |${enda}";
 echo  "========================================================|" | lolcat
 echo  "╭─[Type-NR]"
 read -p "╰→athexhacker@SN1PER:" pil;
